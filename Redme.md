@@ -1,0 +1,1 @@
+a sample project using [xlsmapper](https://github.com/mygreen/xlsmapper) to load xls as java pojo
